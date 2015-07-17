@@ -1,0 +1,8 @@
+name: DHIS-Data-Explorer
+account: foundation
+server: shinyapps.io
+bundleId: 220724
+url: https://foundation.shinyapps.io/DHIS-Data-Explorer
+when: 1437040014.12741
+asMultiple: FALSE
+asStatic: FALSE
